@@ -1,0 +1,15 @@
+1)Done with sending id from index to product details through productdetails controller.
+2)reviews show written waiting foe session to add review 
+3)Pricewise and category wise sorting done
+
+Remining 
+1.Content
+
+problems
+1)Session issue(sorted by composer update)
+2)Add to cart error
+
+
+mODIFIED Today
+1) Validation for add to cart vwithout login 
+2) REview css sorted 
